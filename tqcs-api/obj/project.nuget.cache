@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rNb6Dk+mdERBE/f8GkEtB7soiZZ+Ey99iJ5AcfmijVxEX7B6uv2tF5FhQuASbOKOYQ4sUmfE3SDUjnX9k1hMuQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\SWI_TQCS\\5_Development\\tqcs-api\\tqcs-api\\tqcs-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanchit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kanchit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kanchit\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\kanchit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\kanchit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\kanchit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
